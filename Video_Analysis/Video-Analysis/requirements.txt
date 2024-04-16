@@ -1,0 +1,11 @@
+# torch
+# opencv-contrib-python
+
+ultralytics
+tensorrt
+onnx
+yacs
+progress
+tqdm
+pycocotools
+
